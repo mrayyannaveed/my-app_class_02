@@ -8,7 +8,7 @@ export default function Navbar(){
                 <li style={{listStyle: "none"}}><Link href="/" style={{color: "white", textDecoration: "none"}}>Home</Link></li>
                 <li style={{listStyle: "none"}}><Link href="/about" style={{color: "white", textDecoration: "none"}}>Abouts</Link></li>
                 <li style={{listStyle: "none"}}><Link href="/products" style={{color: "white", textDecoration: "none"}}>Products</Link></li>
-                <li style={{listStyle: "none"}}><Link href="/contact" style={{color: "white", textDecoration: "none"}}>Contact</Link></li>
+                <li style={{listStyle: "none"}}><Link href="/contact" style={{color: "white", textDecoration: "none"}}>Contacts</Link></li>
             </ul>
         </nav>
     )
